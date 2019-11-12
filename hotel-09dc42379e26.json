@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hotel11002",
+  "private_key_id": "09dc42379e26c31297092d58cc9ee0625e71cd0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCHmeeeoY5Prnq2\ndpWuam6UAWEcj5aO4Ts0bcSEVwB+W9ilwKhpoExJZwyXHUwdkkkodMcAOz7qb6z7\npgj/94jTJ0Xagv1b0uAoO98aPBEdfd6aAQHxHalXa8YCBdCGIIsWyrn7bILv7ECF\nd2QN7hb2d5srvUQuYsBbZ6zo+u6q2ET9ufIakJmrRpUlupWJ+Eo6IAJGhPJ+dX52\nnAAtZsg77dIqszJfoeKkOLxW81ppGc3jbB59FuNVEJJJh5Mlha7KB06WL8lnlml1\nSkNZE1Y7U3GL9kpyheQrLS2SVdDdRNJl7eXpg/vyx+MBwVd/jjDHWmv4fnxNNZwJ\nhm9ay5iLAgMBAAECggEAHLb0m1zuu+Tgy361F6gmHmVkYR3u7fa4CNQtxzB9RETC\nzebMQwHU5b5SpjVoBuMRZuXDtkLVgeOAKBHy2fFbIguw+SK/8A/ps9tp1S5fGXWs\nC8Sm2p5DW+XQmmEM1TpS+dKYK6vA1nma+CheIa0HY83UKCD+LSxwO2rq7LMmkzrG\nBxqK2Den6ZokZ32yJYONkdYHr1o7ermP2pVVqNMOdhsjGfOh/HH0/Q2qNo3wGwP6\nKK7VUUAbbXlf+aQ6aa0Avlp+WjfY+GcSgeFdpXfa6qUV4QOUYcx0U18p2Gk57wSo\nsfbXm4jFXEkdbCF/FFRjFCXBAb34e1fFkauNhmY1YQKBgQC8hGA9U/sfUizv3V8+\ngKooNRyiIRMYOO1gW58rzSW52D5H3eNHnj+EZpjb8UQyA5lFKeaAmENuGXdj/pcM\nxgELEts89uJFMYqLdrNxil7/WO4ZMicKR1pVP+QL2ShB7pzG94rnD3ujOHOg/Las\nB8uMJDUPiahNkata7NbpxgFcswKBgQC4JFaukE4f5nkM9WH8xiD0ufGHOi4aFCZX\nNoZTNf+fD99UyQRhQQjpybtWoo4EChRz+ou9saqH+21AY27Ff6miqFGAi9HUVoLn\nYnXreDMiHkXnFnP9G9garDVMO1pzXmTnojFh5vmcHJplj7375cjtAueUvainDZXS\naBxoXObwyQKBgFkZe98glT09eq24BG8nIsU0LR9X4I1/Qnpbc4ShRmZrFSyka+qK\nmdy7HR4/DwtQdh2hayd2T9B2yt4BE2VfJFkWhXZv/YvUmXXHGZLdYn7vikFwWdFa\n3hASzXboIUXgQEst7oG86KPBZ608JB505LiM2GNKnbhj1Ah6ji0Zf8VPAoGBAIN+\nN4P6Oj+fZcuyImHN3dTEP0wwaKFoyCQ5JFyhT8N3IyS5Uu5b8ZB45NUtyTnrNMXJ\nISa5iywFh/OVzZEs46bqiSDBN3pouJugfNJECEeR1Jr7NqKE0qHhXUHtlF6UBnw+\nHwNpW891wW9K4QDTCtLs4xAdCyUXl2gjvj1sMeG5AoGAc59sfMA3FFPGg/e78hU4\nLsHgLTIK2rEyBiT54rww3YyCBIt1c6nTmvAl69XpBC4EUzmo4Q5N5o6IRF7TwQmV\nw1Gw87zABYQeVaewXolR5O+WhxCVoSORw6sj9FKdq5mXovP03CDb5HjteCoSdLaF\nRvlq8Ig58c6Hj+mgDHkY2O8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "raspberry-upload@hotel11002.iam.gserviceaccount.com",
+  "client_id": "114690169816451165797",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raspberry-upload%40hotel11002.iam.gserviceaccount.com"
+}
